@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  context-path: /helloboot
+book:
+  author: zhaolu
+  name: spring boot
